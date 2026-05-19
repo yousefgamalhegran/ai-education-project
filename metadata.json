@@ -1,0 +1,6 @@
+{
+  "name": "محفظة الذكاء الاصطناعي الأكاديمية",
+  "description": "مشروع جامعي متطور لمقرر الذكاء الاصطناعي والنظم الخبيرة - الفرقة الثالثة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
